@@ -10,7 +10,7 @@ git clone https://github.com/reyhanl/CustomTransition.git
 1. Clone this repository.
 2. Run the project.
 
-##Notes
+## Notes
 
 Check out the tutorial on [Medium](https://medium.com/@reyhannnmuhammad9/custom-transition-using-uiviewcontrollertransitioningdelegate-swift-4b921d52f65a) 
 
